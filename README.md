@@ -16,3 +16,6 @@ This repository contains an example API I wrote as part of a Label Printer Appli
 
 ### Example Partial Class Method
 ![Generic Method in Partial Class](Images/PartialClassMethodExample.png)
+
+This example code uses a relative URL variable to perform the call to the API. This URL contains the necessary attributes to return the needed information.
+
